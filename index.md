@@ -19,5 +19,8 @@ Links
   Information for those who care :3
 I created this webpage as a test, and for a resource for all information on me that is important or not to the public!
 My name is Jorden and I waste my life playing video games.
-I like Dark Souls, Terraria, Persona, Half Life, and many more games
-Game enthusiast. My discord is @staaarrkk contact me for info 
+I like Dark Souls, Terraria, Persona, Half Life, and many more games.
+
+Game enthusiast.
+
+My discord is @staaarrkk contact me for info 
