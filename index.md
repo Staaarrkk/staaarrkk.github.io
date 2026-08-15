@@ -1,6 +1,6 @@
 ---
 title: The Staaarrkk Site!
-feature_image: "https://media.discordapp.net/attachments/1044164049270738955/1315331492737585162/staarrk.png?ex=67570569&is=6755b3e9&hm=5ff56a54ab2e27f4e9bef9172831189122fbeee36950686f57ec21b09e964c48&=&format=webp&quality=lossless&width=810&height=249"
+feature_image: "https://c4.wallpaperflare.com/wallpaper/704/218/335/chainsaw-man-power-chainsaw-man-manga-artwork-horns-hd-wallpaper-preview.jpg"
 feature_text: 
   
 ---
@@ -20,4 +20,4 @@ Links
 I created this webpage as a test, and for a resource for all information on me that is important or not to the public!
 My name is Jorden and I waste my life playing video games.
 I like Dark Souls, Terraria, Persona, Half Life, and many more games
-Upcoming music enthusiast. My discord is @staaarrkk contact me for info 
+Game enthusiast. My discord is @staaarrkk contact me for info 

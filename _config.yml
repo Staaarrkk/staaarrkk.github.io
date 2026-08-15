@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://staaarrkklive.github.io'
+url: 'https://staaarrkk.github.io'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://media.discordapp.net/attachments/1044164049270738955/1315309240596041838/779.png?ex=6756f0b0&is=67559f30&hm=53945d383d54435c11ea1ed3e5b5ca97dd046ffa5a1e465252b78b97deb2907c&=&format=webp&quality=lossless&width=810&height=457"
+logo: "https://i.pinimg.com/736x/4e/ac/36/4eac365f9bb78cac2fffda31c15f2cd5.jpg"
 
 # Pagination
 paginate: 5
@@ -34,10 +34,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: The dumb homepage
   url: /
-- title: My Music List
+- title: What im currently listening to!
   url: /music/
+- title: Posts n' shit
+  url: /blog/
 
 # Footer nav
 navigation_footer:
@@ -47,12 +49,12 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: random shit or something
     output: true
-    description: "My thoughts and ideas"
+    description: ""
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      These are my thoughts
+    feature_image: "https://dotandline.net/wp-content/uploads/2018/04/1_Qy1g-Ybpv5LSHjp5ZnK53w-1024x576.jpeg"
 
 # Collection settings
 defaults:
