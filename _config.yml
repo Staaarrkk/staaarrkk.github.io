@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://staaarrkk.github.io'
 baseurl: ''
-title: 'My website'
+title: 'Staaarrkk Site'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://tr.rbxcdn.com/180DAY-2e358d48c12d81da235cd20853d21d88/420/420/Hat/Webp/noFilter"
@@ -40,6 +40,8 @@ navigation_header:
   url: /music/
 - title: Posts n' shit
   url: /blog/
+- title: Statue wishlist
+  url: /wishlist/
 
 # Footer nav
 navigation_footer:
