@@ -1,6 +1,6 @@
 ---
 title: The Staaarrkk Site!
-feature_image: "https://imgur.com/hcOmxzM"
+feature_image: "https://i.imgur.com/hcOmxzM.jpg"
 feature_text: 
   
 ---

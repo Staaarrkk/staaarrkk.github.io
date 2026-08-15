@@ -1,6 +1,6 @@
 ---
 title: The Staaarrkk Music List!
-feature_image: "https://imgur.com/hcOmxzM"
+feature_image: "https://i.imgur.com/hcOmxzM.jpg"
 feature_text: |
   
 ---
