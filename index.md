@@ -24,3 +24,4 @@ I like Dark Souls, Terraria, Persona, Half Life, and many more games.
 Game enthusiast.
 
 My discord is @staaarrkk contact me for info 
+
