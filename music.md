@@ -1,6 +1,6 @@
 ---
 title: The Staaarrkk Music List!
-feature_image: "https://c4.wallpaperflare.com/wallpaper/704/218/335/chainsaw-man-power-chainsaw-man-manga-artwork-horns-hd-wallpaper-preview.jpg"
+feature_image: "https://imgur.com/hcOmxzM"
 feature_text: |
   
 ---
