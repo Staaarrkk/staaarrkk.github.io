@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 Hello!,
-So basically im a huge supernerd who likes anime figurines. This is where im going to put the figurines i actually want though. Maybe I'll get free shit.
+So basically im a huge supernerd who likes anime figurines. This is where im going to put the figurines i actually want though. Maybe I'll get free stuff <3.
 
 [![ichiban Kuji Bleach Masterlise Figure - Ulquiorra Cifer](https://jumpichiban.com/cdn/shop/files/IchibanKujiBleachStirringSoulsVol.3-APrizeUlquiorraCiferFigureMasterlise.jpg?v=1755336762&width=1000)](https://jumpichiban.com/en-us/products/ichiban-kuji-bleach-stirring-souls-vol-3-a-prize-ulquiorra-cifer-figure-masterlise)
 
